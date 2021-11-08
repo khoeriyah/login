@@ -1,0 +1,62 @@
+.kol1{
+    background-color: rgb(255, 202, 132);
+}
+
+.gambar1{
+    height: 85%;
+    width: 95%; 
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.teks{
+    font-family: glory; 
+    margin-top: 50px;
+    color: black;
+}
+
+.logo{
+    height: 15%; 
+    width: 15%; 
+}
+
+.teks1{
+    font-family: glory;
+    color: black;
+}
+
+.link1{
+    color: black;
+    position: relative;
+}
+
+.button{
+    font-family: glory;
+}
+
+.tabel{
+    width: 50%;
+}
+
+footer{
+    background: rgb(255, 202, 132);
+    margin-top: 64px;
+    padding-top: 3px;
+}
+
+.logo_footer{
+    height: 20px;
+    width: 25px;
+}
+
+@media (min-width: 360px) {
+    .container{
+        margin-top: 0%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container{
+        margin-top: 5%;
+    }
+}
